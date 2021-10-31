@@ -1,0 +1,2 @@
+Link for 3d scatter plot
+https://medium.com/@dhwajraj/python-regression-analysis-part-4-multiple-linear-regression-ed09a0c31c74

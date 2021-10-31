@@ -1,0 +1,5 @@
+This is a Historical data from a social network.
+
+The data shows userid, gender,age,salary and if the event happpend in how many days.
+
+The Ask is to predict how many days the customer would respond. The y is ordinal here.

@@ -1,0 +1,6 @@
+This is a Historical data from a social network.
+
+1. The data shows userid, gender,age,salary and if the event happened or not.
+2. The event was purchase of a car, so 1 means that the customer purchased the car and 0 means they did not.
+3. We are challenged to come up with a model using this data to predict future potential customers
+4. We would be using Age and estimated salary for predicting the outcome?

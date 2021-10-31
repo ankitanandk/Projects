@@ -1,0 +1,5 @@
+Let's try and understand the data. This is a data from the sutomers going to a mall, 200 customers accessed on 5 parameters.
+These customers are subscribed to the membership of the mall. This cobranded card is being used for buying all kind of groceries and items from the mall.
+The spending score is a metric between 1- 100 and ranks the customers basis their spend amounts and the frequency of purchases.
+
+Objective: Classify these customers into segments based on these available data variables of Income and spending score. 
